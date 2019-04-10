@@ -1,4 +1,5 @@
 /.vscode
 /.cache
+uploads
 .tmp
 node_modules
